@@ -1,0 +1,18 @@
+export default {
+  'hero.svgTitle': 'Vier Datenpunktnamen werden von einer Tabelle zu Knoten eines Graphen, verbunden mit der Lüftungsanlage.',
+  'hero.svgHead': 'Datenpunkt',
+  'hero.svgCaption': 'Vier Datenpunktnamen aus einem öffentlichen LBNL-Datensatz: erst Zeilen einer Tabelle, dann Knoten im Graphen.',
+  'about.title': 'Worum geht es',
+  'about.problem': 'Problem',
+  'about.approach': 'Ansatz',
+  'about.goals': 'Ziele',
+  'about.pilot': 'Erprobung',
+  'partner.title': 'Partner',
+  'partner.funding': 'Gefördert durch das {funder} · {agency} · FKZ {fkz}',
+  'tb.project': 'Projekt',
+  'tb.duration': 'Laufzeit',
+  'tb.fkz': 'Förderkennzeichen',
+  'tb.legal': 'Rechtliches',
+  'tb.impressum': 'Impressum',
+  'tb.datenschutz': 'Datenschutz',
+};

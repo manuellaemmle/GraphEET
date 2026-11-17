@@ -1,0 +1,125 @@
+{
+  "_note": "Single source of project facts for the landing page. Every field carries the URL it was taken from. Retrieved 2026-11-17.",
+  "title": {
+    "value": "GraphEET",
+    "source": "https://github.com/manuellaemmle/GraphEET"
+  },
+  "subtitle": {
+    "value": "Graphen und KI-Verfahren für das Technische Monitoring von energieeffizienten Gebäuden",
+    "source": "https://github.com/manuellaemmle/GraphEET"
+  },
+  "heroProblem": {
+    "value": "Technisches Monitoring kann den Energieverbrauch von Gebäuden um bis zu 20 % senken – aber Fachkräftemangel und manuelle Schritte bremsen die flächendeckende Umsetzung.",
+    "source": "https://www.ise.fraunhofer.de/de/forschungsprojekte/grapheet.html"
+  },
+  "heroApproach": {
+    "value": "GraphEET entwickelt hybride KI-Verfahren, die Datenpunkte und Anlagentopologien erkennen und als Knowledge Graphs abbilden.",
+    "source": "https://www.ise.fraunhofer.de/de/forschungsprojekte/grapheet.html"
+  },
+  "problem": {
+    "value": "Durch Technisches Monitoring (TMon) lassen sich Energieverbräuche in Gebäuden um bis zu 20 % senken. In der Praxis bleibt dieses Potenzial jedoch häufig ungenutzt, da Fachkräftemangel, manuelle Arbeitsschritte und fehlende digitale Prozesse eine flächendeckende Umsetzung erschweren. Insbesondere die aufwendige Zuordnung von Datenpunkten und das fehlende digitale Abbild gebäudetechnischer Anlagen stellen zentrale Hürden dar.",
+    "source": "https://github.com/manuellaemmle/GraphEET"
+  },
+  "approach": {
+    "items": [
+      "Ein standardisiertes Knowledge-Graph-Modell beschreibt Anlagen, Sensoren, Regelung sowie Energie- und Hydraulikbezüge. Dafür wird die am Fraunhofer ISE entwickelte TBSys-Ontologie erweitert, die auf Standard 223P und Brick Schema basiert.",
+      "Darauf aufbauend entstehen eine Anlagendatenbank mit Templates, Prüfgrößen und Regelsätzen sowie eine Datenstruktur für digitale mobile Messaufgaben.",
+      "Eine KI-Pipeline kombiniert Texterkennung mittels generativer KI mit Zeitreihenklassifikation und symbolischer KI zur Datenpunkt- und Topologieerkennung.",
+      "Die Bausteine werden in die Monitoring-Plattform des Projektpartners Mondas integriert und an Demonstratoren in realen Monitoring-Projekten validiert."
+    ],
+    "source": "https://www.ise.fraunhofer.de/de/forschungsprojekte/grapheet.html"
+  },
+  "goals": {
+    "items": [
+      "Ein durchgängig digitaler Workflow für das Technische Monitoring.",
+      "Hybride KI-Verfahren, die Sensoren, Zähler und gesamte Anlagentopologien unmittelbar aus Daten der Gebäudeautomation erkennen.",
+      "Knowledge-Graph-Modelle, die Komponenten, Beziehungen und Standorte eindeutig beschreiben.",
+      "Standardisierte Analyse- und Prüfplanvorlagen, die sich automatisch auf Anlagen unterschiedlicher Topologien anwenden lassen.",
+      "Workflows für mobile Messaufgaben.",
+      "GUI-gestützte Softwaredemonstratoren, die in Pilotgebäuden validiert werden."
+    ],
+    "source": "https://www.ise.fraunhofer.de/de/forschungsprojekte/grapheet.html"
+  },
+  "partners": {
+    "items": [
+      {
+        "name": "Hochschule Offenburg",
+        "role": "Projektkoordination",
+        "roleSource": "https://www.enargus.de/pub/bscw.cgi/?op=enargus.eps2&q=%2201278020/1%22&v=10&id=342336104"
+      },
+      {
+        "name": "Fraunhofer ISE"
+      },
+      {
+        "name": "Mondas GmbH"
+      },
+      {
+        "name": "Drees & Sommer SE"
+      },
+      {
+        "name": "Maurer Energie- und Ingenieurleistungen GmbH & Co. KG"
+      },
+      {
+        "name": "Testo SE & Co. KGaA"
+      }
+    ],
+    "source": "https://github.com/manuellaemmle/GraphEET"
+  },
+  "duration": {
+    "value": "07/2025 – 06/2028",
+    "start": "2025-07-01",
+    "end": "2028-06-30",
+    "source": "https://www.enargus.de/pub/bscw.cgi/?op=enargus.eps2&q=%2201278020/1%22&v=10&id=342336104"
+  },
+  "funder": {
+    "value": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+    "source": "https://www.enargus.de/pub/bscw.cgi/?op=enargus.eps2&q=%2201278020/1%22&v=10&id=342336104",
+    "short": "BMWE"
+  },
+  "projectAgency": {
+    "value": "Projektträger Jülich, Forschungszentrum Jülich GmbH",
+    "source": "https://www.enargus.de/pub/bscw.cgi/?op=enargus.eps2&q=%2201278020/1%22&v=10&id=342336104",
+    "short": "Projektträger Jülich"
+  },
+  "fkz": {
+    "value": "03EN1107A",
+    "subproject": "Teilvorhaben der Hochschule Offenburg: Framework und Proof-of-Concept für graphenbasiertes Monitoring",
+    "executingBody": "Institut für nachhaltige Energiesysteme (INES), Offenburg",
+    "source": "https://www.enargus.de/pub/bscw.cgi/?op=enargus.eps2&q=%2201278020/1%22&v=10&id=342336104"
+  },
+  "pilot": {
+    "value": "Die Methoden und Softwarebausteine werden in realen Labor- und Gebäudestrukturen erprobt, unter anderem im RIZ-Gebäude (RIZ Energie) sowie in den technischen Laboren und Anlagen der Hochschule Offenburg.",
+    "source": "https://github.com/manuellaemmle/GraphEET",
+    "source2": "https://www.enargus.de/pub/bscw.cgi/?op=enargus.eps2&q=%2201278020/1%22&v=10&id=342336104"
+  },
+  "images": {
+    "infrastructure": {
+      "file": "assets/img/ise-versorgungsinfrastruktur.jpg",
+      "width": 1000,
+      "height": 667,
+      "caption": "Beispiel für eine Versorgungs- und Messinfrastruktur in modernen gebäudetechnischen Anlagen.",
+      "credit": "© Fraunhofer ISE",
+      "source": "https://www.ise.fraunhofer.de/de/forschungsprojekte/grapheet.html"
+    },
+    "approach": {
+      "file": "assets/img/grapheet-ansatz-detail.png",
+      "width": 1531,
+      "height": 1027,
+      "caption": "Die Informationen aus der Gebäudeautomation und -dokumentation werden in eine digitale, graphenbasierte Darstellung überführt. Diese dient als Grundlage für automatisierte TMon-Teilprozesse, die verschiedene Stakeholder unterstützen.",
+      "credit": "© Fraunhofer ISE",
+      "source": "Fraunhofer ISE; more detailed version of the approach graphic on https://www.ise.fraunhofer.de/de/forschungsprojekte/grapheet.html, supplied by the project lead",
+      "captionSource": "https://www.ise.fraunhofer.de/de/forschungsprojekte/grapheet.html"
+    },
+    "fundingLogo": {
+      "file": "assets/img/bmwe-gefoerdert-durch.png",
+      "alt": "Gefördert durch: Bundesministerium für Wirtschaft und Energie aufgrund eines Beschlusses des Deutschen Bundestages",
+      "source": "https://www.ise.fraunhofer.de/de/forschungsprojekte/grapheet.html"
+    }
+  },
+  "sources": {
+    "ise_en": "https://www.ise.fraunhofer.de/en/research-projects/grapheet.html",
+    "ise_de": "https://www.ise.fraunhofer.de/de/forschungsprojekte/grapheet.html",
+    "readme": "https://github.com/manuellaemmle/GraphEET",
+    "enargus": "https://www.enargus.de/pub/bscw.cgi/?op=enargus.eps2&q=%2201278020/1%22&v=10&id=342336104"
+  }
+}

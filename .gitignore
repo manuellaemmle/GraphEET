@@ -1,0 +1,17 @@
+node_modules
+.DS_Store
+
+# Working material of the internal prototype: never commit to this public branch
+.claude/
+CLAUDE.md
+.mcp.json
+docs/specs/
+
+# Local test tooling, not part of the published site
+tests/
+tools/
+package.json
+package-lock.json
+playwright.config.js
+test-results/
+playwright-report/
